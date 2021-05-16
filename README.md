@@ -1,4 +1,4 @@
-# Database-Software
+# Database-Software in Microsoft Access
 This software is to help admin from dining shop to manage their database. As in data from customer, staff, products and their customer's orders. 
 
 ![image](https://user-images.githubusercontent.com/81791570/118388854-78cd5800-b659-11eb-9966-d9d5073d8668.png)
